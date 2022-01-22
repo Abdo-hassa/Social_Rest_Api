@@ -14,4 +14,6 @@ using Jwt authentication and sockets for realtime functionality
 2. _git clone <Abdo-hassa/Social_Rest_Api>_
 3. _cd Social_Rest_Api
 4. _npm install_
+5. create .env file and put your Database_Url in it
+
 
