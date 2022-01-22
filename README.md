@@ -6,6 +6,8 @@ using Jwt authentication and sockets for realtime functionality
 1. ExpressJs
 2. Socket.io
 3. JWT
+4. MongoDb
+5. mongoose
 
 
 # How it works ?
