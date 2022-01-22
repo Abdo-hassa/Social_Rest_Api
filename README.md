@@ -13,7 +13,7 @@ using Jwt authentication and sockets for realtime functionality
 # How it works ?
 
 1. type in your terminal
-2. _git clone <Abdo-hassa/Social_Rest_Api>_
+2. _git clone <https://github.com/Abdo-hassa/Social_Rest_Api.git>_
 3. _cd Social_Rest_Api
 4. _npm install_
 5. create .env file and put your Database_Url in it
