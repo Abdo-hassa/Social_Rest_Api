@@ -3,9 +3,9 @@ using Jwt authentication and sockets for realtime functionality
 
 
 ### **Used Technologoies**
-1.ExpressJs
-2.Socket.io
-3.JWT
+1. ExpressJs
+2. Socket.io
+3. JWT
 
 
 # How it works ?
